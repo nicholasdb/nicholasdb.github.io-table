@@ -1,0 +1,63 @@
+body * {
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/cup-coffee-office-desk-wood-table-background-laptop-computer-glasses-fresh-flower-top-view-copy-space-wooden-115762239.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h2 span{
+    font-family: helvetica, serif;
+    color: purple;
+    font-weight: bold;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid purple;
+}
+
+h1 span {
+    text-transform: uppercase;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid purple;
+    
+}
+
+table {
+    border: 3px solid purple;
+    
+}
+
+thead {
+    background-color: pink;
+}
+
+
+td span {
+    background-color:#f9f9cd;
+    
+}
+
+
+th, tbody tr td {
+    border-bottom: 1px solid purple;
+}
+
+td {
+    text-align: left;
+    padding: 2px;
+}
+
+table {
+    width: 650px;
+    background-color: white;
+}
